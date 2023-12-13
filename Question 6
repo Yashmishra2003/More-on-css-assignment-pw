@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+   <style>
+     
+      table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+   
+    td, th {
+      border: 2px solid #1a0808;
+      text-align: left;
+      padding: 5px;
+    }
+   
+    tr:nth-child(even) {
+      background-color: #220707cb;
+    }
+
+
+
+
+    h1{
+         
+       
+         text-align: center;
+       
+      }
+
+
+      .par{
+        text-align: center;
+      }
+
+
+      img{
+       margin-left: 72px;
+        border-radius: 10px;
+        width: 91%;
+       
+      }
+     
+      .para{
+        margin-left: 68px;
+        margin-top: -15px;
+      }
+   </style>
+</head>
+<body >
+<table>
+   <th>
+      <div class="body1" >
+         <h1>About Us</h1>
+         <p class="par">
+             PW Skills' mission is to permeate through every student/professional's outlook towards jobs and change their attitude and perspective from"How Can I Do It?" to "Of Course I Can<br>Do It".We aim to do this by providing exceptional up skilling courses at affordable rates, while being tech-forward so anyone, anywhere can access and improve their ability to be <br>
+           
+         </p>
+         <p class="para">
+            succesful in life.
+         </p>
+         
+         <img src="https://pwskills.com/images/aboutUs/aboutUs.png" alt="">
+        </div>
+   </th>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+</body>
+</html>
+
+
