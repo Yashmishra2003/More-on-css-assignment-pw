@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+   <style>
+       table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 35%;
+    }
+   
+    td, th {
+      border: 2px solid #1a0808;
+      text-align: left;
+      padding: 5px;
+    }
+   
+    tr:nth-child(even) {
+      background-color: #220707cb;
+    }
+   </style>
+</head>
+<body>
+   <table>
+     <th>
+      <h1>
+         Requirements
+      </h1>
+   
+      <ol>
+         <li type="i">System with minimum i3 processor or better.</li>
+         <li type="i" >At least 4 GB of RAM.</li>
+         <li type="i">Working internet connection.</li>
+         <li type="i">Dedication to learn</li>
+      </ol>
+     </th>
+   </table>
+</body>
+</html>
