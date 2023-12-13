@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Montserrat:ital,wght@0,300;1,300&family=Open+Sans:ital,wght@0,300;1,800&family=Poppins:ital,wght@1,300&display=swap" rel="stylesheet">
+
+
+   <style>
+      .image{
+         display: block;
+         margin-left: auto;
+         margin-right: auto;
+      }
+
+
+      .para{
+         font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+      }
+   </style>
+</head>
+<body>
+   <h1 style="text-align: center;">
+      "Oswald" font
+   </h1>
+   <img src="./WhatsApp Image 2023-11-09 at 13.45.51_690b9c80.jpg" alt="" width="200px" height="200px" class="image">
+   <p class="para">
+      Google Fonts makes it easy to bring personality and performance to your websites and products. Our robust catalog of open-source fonts and icons, makes it easy to integrate expressive type and icons seamlessly—no matter where you are in the world.
+   </p>
+</body>
+</html>
