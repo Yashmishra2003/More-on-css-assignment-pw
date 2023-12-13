@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+   <style>
+
+
+
+
+
+
+
+
+    .image{
+        margin-left: 15px;
+        margin-top: 10px;
+        border-radius: 25px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   div{
+     background-color: yellow;
+     width: 280px;
+     height: 280px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     border-radius: 23px;
+    }
+     
+
+
+
+
+
+
+
+
+     
+      p{
+         font-weight: 500;
+        text-align:justify;
+        margin-left: 10px;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+   
+   </style>
+</head>
+<body>
+   <div>
+      <img src="./q9sunhfo.png" alt="" width="250px" height="200px" class="image">
+         <p>
+            Course Name:PW Skills full Stack web <br>devlopment
+         </p>
+     
+   </div>
+</body>
+</html>
