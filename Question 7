@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .image{
+          margin-left: 10px;
+          margin-top: 20px;
+        }
+
+
+
+
+        .din{
+            background-color: aqua;
+            width: 270px;
+            height: 290px;
+           border-radius: 20px;
+           margin-left: 10px;
+        }
+
+
+
+
+        table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 20%;
+    }
+   
+    td, th {
+      border: 2px solid #1a0808;
+      text-align: left;
+      padding: 5px;
+    }
+   
+    tr:nth-child(even) {
+      background-color: #220707cb;
+    }
+
+
+
+
+   
+
+
+
+
+    div:hover{
+        opacity: 0.5;
+    }
+    </style>
+</head>
+<body>
+   <table class="nth">
+    <th>
+        <div class="din">
+            <img src="./q9sunhfo.png" alt="" width="250px" height="200px" class="image">
+            <p>Course Name:PW Skills web devlopment</p>
+           </div>
+    </th>
+   </table>
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+
